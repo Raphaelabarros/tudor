@@ -1,1 +1,1 @@
-Este é o caminho para o site [Tudor] (https://raphaelabarros.github.io/tudor/).
+Este é o caminho para o site [Tudor](https://raphaelabarros.github.io/tudor/).
