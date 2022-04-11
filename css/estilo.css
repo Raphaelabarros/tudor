@@ -1,0 +1,241 @@
+element.style {
+}
+
+.tudor-icon {
+    padding: 32px 0;
+    background: black;
+    text-align: center;
+    margin-top: -46px;
+
+}
+.tudor-top-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 12px;
+}
+.tudor-top-links .tudor-link.second .tudor-link.third {
+    margin:0 50px;
+}
+.tudor-top-links .tudor-link a{
+    color: #fff;
+}
+.tudor-banner img{
+    width:100%
+}
+.inside-tudor-content span {
+    max-width: 990px;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}.inside-tudor.tudor-gray.full-width {
+    padding: 50px 0;
+    background: #F8F8FF ;
+}
+.header-first span {
+    color: #FF0000  ;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 800;
+    font-family: sans-serif;
+
+}
+.header-second span {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+.header-second {
+    margin-bottom: 20px;
+}
+.inside-tudor-content {
+    font-size: 14px;
+}
+.tudor-header-block {
+    text-align: center;
+}
+.tudor-history {
+    margin: 50px 0;
+}
+.tudor-history-image {
+    text-align: center;
+}
+.tudor-history-bottom {
+    max-width: 950px;
+    margin: 30px auto 0;
+    text-align: center;
+    font-size: 12px;
+    width: auto;
+    color: #A9A9A9;
+
+}
+.tudor-history-bottom .bottom-center {
+    margin-bottom: 10px;
+}
+.bottom-bold-center {
+    font-size: 12px;
+    font-weight: 600;
+}
+.watchmaking-tudor{
+    background: black;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    margin: 60px 0 100px;
+
+}
+.watchmaking-tudor .tudor-column-left,
+.watchmaking-tudor .tudor-column-right{
+    width: 50%;
+}
+.tudor-column-left {
+    text-align: left;
+    margin-top: 70px;
+}
+.tudor-column-left.center-all-content {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+.watchmmaking-header-second {
+    font-size: 30px;
+    line-height: 38px;
+    max-width: 550px;
+    font-weight: 800;
+}
+.watchmmaking-text {
+    font-size: 14px;
+    margin: 20px 0;
+    max-width: 680px;
+}
+.watchmmaking-header span {
+    font-size: 15px;
+}
+.tudor-column-right {
+
+}
+
+
+.tudor-david-beckham,
+.tudor-jay-chou {
+ 
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    
+}
+.tudor-ambassador .tudor-ambassador-left, .tudor-ambassador .tudor-ambassador-right {
+    flex: 0 50%;
+}
+
+.tudor-jay-chou .tudor-ambassador-left, 
+.tudor-david-beckham .tudor-ambassador-left {
+    text-align: right;
+}
+.tudor-david-beckham .tudor-ambassador-left div {
+
+    padding-right: 40px;
+    padding-left: 11rem;
+}
+
+.tudor-jay-chou .tudor-ambassador-right div{
+    padding-left: 40px;
+    padding-right: 11rem;
+}
+.tudor-ambassador-header {
+    color: #FF0000;
+    font-weight: 800;
+    font-family: sans-serif;
+    padding-top: 60px;
+    font-size: 15px;
+    line-height:50px;
+}
+.tudor-ambassador-name {
+ 
+    font-size: 30px;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+       font-weight: 800;
+    font-family: sans-serif
+}
+.tudor-ambassador-description {
+    padding-right: 11rem;
+}
+.tudor-ambassador-description {
+    line-height: 27px;
+}
+.tudor-the-best-banner-text{
+    position: relative;
+    display: inline-block;
+    top: -200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-family: sans-serif;
+    
+}
+.tudor-the-best-banner img {
+    margin-top: 50px;
+    background: black;
+    width: 100%;
+}
+.tudor-bottom .tudor-top-links  {
+
+    background: black;
+    border-top: 1px solid #909090;
+    border-bottom: 1px solid #909090;
+}
+.tudor-bottom-to-top img {
+    margin: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+
+}
+/*.watchmaking-tudor .tudor-column-left div {
+    padding-left: 27rem;
+}*/
+.center-content {
+    max-width: 500px;
+    padding: 0px !important;
+    display: flex;
+    flex-direction: column;
+}
+.tudor-bottom-to-top {
+    background: black ;
+    padding: 40px 0;
+}
+
+.explore-tudor-button a {
+    background: #000;
+    color: #fff;
+    margin: 30px auto 0;
+    display: block;
+    padding: 20px;
+    max-width: 290px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.explore-tudor-button {
+    text-align: center;
+}
+.explore-tudor-button a:hover {
+    text-decoration: none;
+}
+/************************* TUDOR PAGE ***********************************/
+/************************* category add to cart hover fix ***********************************/
+.catalog-category-view .products-grid .products.list .product-item-info {
+    max-width: 100%;
+    height: 43rem;
+    margin-bottom: -5rem !important;
+}
